@@ -34,7 +34,7 @@ import * as Web5 from 'did:dht:@web5/package/api/0.0.1?hash=AIjFIKRllrhcb48dqUNA
 
 ## Decentralized Resource Locators (DRL)
 
-![image](https://gist.github.com/user-attachments/assets/9e8a7eae-b1ad-4c3f-9ffc-a2490f78a19d)
+![drls](./docs/img/drls.png)
 
 ## DPM Loader
 
